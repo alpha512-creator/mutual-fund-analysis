@@ -1,0 +1,15 @@
+# SQLite Database
+sql/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
