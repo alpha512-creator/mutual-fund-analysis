@@ -1,0 +1,353 @@
+scheme_code,scheme_name,company_name,sector,weight_pct
+SCH001,Equity Fund 001,Infosys,Information Technology,3.01
+SCH001,Equity Fund 001,Cipla,Healthcare,19.32
+SCH001,Equity Fund 001,Mahindra & Mahindra,Automobile,8.45
+SCH001,Equity Fund 001,Tech Mahindra,Information Technology,5.86
+SCH001,Equity Fund 001,L&T,Construction,1.09
+SCH001,Equity Fund 001,HDFC Bank,Financial Services,1.09
+SCH001,Equity Fund 001,Tata Communications,Telecommunication,0.38
+SCH001,Equity Fund 001,Kotak Mahindra Bank,Financial Services,12.91
+SCH001,Equity Fund 001,Eicher Motors,Automobile,5.9
+SCH001,Equity Fund 001,DLF,Construction,7.9
+SCH001,Equity Fund 001,Vedanta,Metals,0.13
+SCH001,Equity Fund 001,Sun Pharma,Healthcare,22.49
+SCH001,Equity Fund 001,Indian Oil,Oil & Gas,11.47
+SCH002,Equity Fund 002,Cipla,Healthcare,5.83
+SCH002,Equity Fund 002,Maruti Suzuki,Automobile,4.89
+SCH002,Equity Fund 002,Infosys,Information Technology,4.94
+SCH002,Equity Fund 002,L&T,Construction,8.85
+SCH002,Equity Fund 002,Nestle India,FMCG,18.14
+SCH002,Equity Fund 002,Tata Power,Power,13.79
+SCH002,Equity Fund 002,Axis Bank,Financial Services,8.39
+SCH002,Equity Fund 002,Bharti Airtel,Telecommunication,23.08
+SCH002,Equity Fund 002,Vodafone Idea,Telecommunication,3.66
+SCH002,Equity Fund 002,Power Grid,Power,8.43
+SCH003,Equity Fund 003,Infosys,Information Technology,3.33
+SCH003,Equity Fund 003,Maruti Suzuki,Automobile,4.45
+SCH003,Equity Fund 003,TCS,Information Technology,11.24
+SCH003,Equity Fund 003,HCL Tech,Information Technology,1.63
+SCH003,Equity Fund 003,Apollo Hospitals,Healthcare,5.28
+SCH003,Equity Fund 003,ITC,FMCG,6.56
+SCH003,Equity Fund 003,Nestle India,FMCG,0.35
+SCH003,Equity Fund 003,Tech Mahindra,Information Technology,6.84
+SCH003,Equity Fund 003,GAIL,Oil & Gas,1.37
+SCH003,Equity Fund 003,Mahindra & Mahindra,Automobile,0.49
+SCH003,Equity Fund 003,Coal India,Metals,21.74
+SCH003,Equity Fund 003,Divi's Lab,Healthcare,24.64
+SCH003,Equity Fund 003,ICICI Bank,Financial Services,12.08
+SCH004,Equity Fund 004,Britannia,FMCG,6.33
+SCH004,Equity Fund 004,Sun Pharma,Healthcare,1.79
+SCH004,Equity Fund 004,Eicher Motors,Automobile,20.06
+SCH004,Equity Fund 004,ITC,FMCG,10.09
+SCH004,Equity Fund 004,Coal India,Metals,2.26
+SCH004,Equity Fund 004,JSW Steel,Metals,11.89
+SCH004,Equity Fund 004,Cipla,Healthcare,0.61
+SCH004,Equity Fund 004,Vodafone Idea,Telecommunication,41.76
+SCH004,Equity Fund 004,Adani Green,Power,5.21
+SCH005,Equity Fund 005,UltraTech Cement,Construction,6.39
+SCH005,Equity Fund 005,Mahindra & Mahindra,Automobile,2.2
+SCH005,Equity Fund 005,Vodafone Idea,Telecommunication,4.32
+SCH005,Equity Fund 005,Infosys,Information Technology,4.65
+SCH005,Equity Fund 005,TCS,Information Technology,1.2
+SCH005,Equity Fund 005,Indian Oil,Oil & Gas,20.54
+SCH005,Equity Fund 005,NTPC,Power,8.78
+SCH005,Equity Fund 005,Grasim,Construction,16.5
+SCH005,Equity Fund 005,Adani Green,Power,13.25
+SCH005,Equity Fund 005,Bharti Airtel,Telecommunication,5.36
+SCH005,Equity Fund 005,Tech Mahindra,Information Technology,14.99
+SCH005,Equity Fund 005,Dr. Reddy's,Healthcare,0.54
+SCH005,Equity Fund 005,Wipro,Information Technology,1.28
+SCH006,Equity Fund 006,Indian Oil,Oil & Gas,0.72
+SCH006,Equity Fund 006,SBI,Financial Services,6.13
+SCH006,Equity Fund 006,Bharti Airtel,Telecommunication,7.67
+SCH006,Equity Fund 006,Divi's Lab,Healthcare,4.93
+SCH006,Equity Fund 006,Power Grid,Power,27.5
+SCH006,Equity Fund 006,BPCL,Oil & Gas,6.88
+SCH006,Equity Fund 006,GAIL,Oil & Gas,5.14
+SCH006,Equity Fund 006,Tata Power,Power,12.19
+SCH006,Equity Fund 006,Tata Steel,Metals,2.37
+SCH006,Equity Fund 006,Wipro,Information Technology,25.26
+SCH006,Equity Fund 006,Cipla,Healthcare,1.21
+SCH007,Equity Fund 007,Eicher Motors,Automobile,36.92
+SCH007,Equity Fund 007,Infosys,Information Technology,12.6
+SCH007,Equity Fund 007,Tata Steel,Metals,1.89
+SCH007,Equity Fund 007,Bharti Airtel,Telecommunication,0.05
+SCH007,Equity Fund 007,Indian Oil,Oil & Gas,14.4
+SCH007,Equity Fund 007,Divi's Lab,Healthcare,10.45
+SCH007,Equity Fund 007,Adani Green,Power,11.12
+SCH007,Equity Fund 007,Maruti Suzuki,Automobile,12.57
+SCH008,Equity Fund 008,Britannia,FMCG,1.07
+SCH008,Equity Fund 008,Vodafone Idea,Telecommunication,6.2
+SCH008,Equity Fund 008,TCS,Information Technology,1.72
+SCH008,Equity Fund 008,Tata Motors,Automobile,27.75
+SCH008,Equity Fund 008,Hindustan Unilever,FMCG,13.63
+SCH008,Equity Fund 008,JSW Energy,Power,5.61
+SCH008,Equity Fund 008,Eicher Motors,Automobile,0.92
+SCH008,Equity Fund 008,Infosys,Information Technology,5.2
+SCH008,Equity Fund 008,SBI,Financial Services,5.49
+SCH008,Equity Fund 008,Tech Mahindra,Information Technology,18.25
+SCH008,Equity Fund 008,Maruti Suzuki,Automobile,14.16
+SCH009,Equity Fund 009,JSW Steel,Metals,21.64
+SCH009,Equity Fund 009,Bharti Airtel,Telecommunication,6.34
+SCH009,Equity Fund 009,JSW Energy,Power,1.26
+SCH009,Equity Fund 009,Coal India,Metals,12.4
+SCH009,Equity Fund 009,Tata Motors,Automobile,14.2
+SCH009,Equity Fund 009,HCL Tech,Information Technology,8.18
+SCH009,Equity Fund 009,Britannia,FMCG,14.63
+SCH009,Equity Fund 009,Grasim,Construction,6.76
+SCH009,Equity Fund 009,HDFC Bank,Financial Services,7.34
+SCH009,Equity Fund 009,Axis Bank,Financial Services,5.54
+SCH009,Equity Fund 009,Hindustan Unilever,FMCG,0.26
+SCH009,Equity Fund 009,Mahindra & Mahindra,Automobile,1.13
+SCH009,Equity Fund 009,Eicher Motors,Automobile,0.32
+SCH010,Equity Fund 010,BPCL,Oil & Gas,9.91
+SCH010,Equity Fund 010,JSW Steel,Metals,3.69
+SCH010,Equity Fund 010,HCL Tech,Information Technology,6.95
+SCH010,Equity Fund 010,Bharti Airtel,Telecommunication,23.31
+SCH010,Equity Fund 010,Kotak Mahindra Bank,Financial Services,2.81
+SCH010,Equity Fund 010,HDFC Bank,Financial Services,5.17
+SCH010,Equity Fund 010,Mahindra & Mahindra,Automobile,13.79
+SCH010,Equity Fund 010,Grasim,Construction,2.54
+SCH010,Equity Fund 010,L&T,Construction,0.78
+SCH010,Equity Fund 010,Indian Oil,Oil & Gas,3.35
+SCH010,Equity Fund 010,Axis Bank,Financial Services,1.72
+SCH010,Equity Fund 010,Apollo Hospitals,Healthcare,25.98
+SCH011,Equity Fund 011,Ambuja Cements,Construction,11.84
+SCH011,Equity Fund 011,JSW Steel,Metals,7.19
+SCH011,Equity Fund 011,Maruti Suzuki,Automobile,14.7
+SCH011,Equity Fund 011,Tata Motors,Automobile,11.66
+SCH011,Equity Fund 011,JSW Energy,Power,1.48
+SCH011,Equity Fund 011,SBI,Financial Services,15.98
+SCH011,Equity Fund 011,HDFC Bank,Financial Services,5.55
+SCH011,Equity Fund 011,Adani Green,Power,11.8
+SCH011,Equity Fund 011,Tata Communications,Telecommunication,16.22
+SCH011,Equity Fund 011,Reliance Industries,Oil & Gas,2.74
+SCH011,Equity Fund 011,Bharti Airtel,Telecommunication,0.84
+SCH012,Equity Fund 012,TCS,Information Technology,2.46
+SCH012,Equity Fund 012,L&T,Construction,5.29
+SCH012,Equity Fund 012,Power Grid,Power,16.18
+SCH012,Equity Fund 012,JSW Energy,Power,18.72
+SCH012,Equity Fund 012,Kotak Mahindra Bank,Financial Services,0.07
+SCH012,Equity Fund 012,HCL Tech,Information Technology,6.79
+SCH012,Equity Fund 012,Vodafone Idea,Telecommunication,5.13
+SCH012,Equity Fund 012,Cipla,Healthcare,2.39
+SCH012,Equity Fund 012,ITC,FMCG,1.21
+SCH012,Equity Fund 012,Apollo Hospitals,Healthcare,3.91
+SCH012,Equity Fund 012,BPCL,Oil & Gas,27.19
+SCH012,Equity Fund 012,Hindalco,Metals,3.71
+SCH012,Equity Fund 012,Infosys,Information Technology,6.95
+SCH013,Equity Fund 013,JSW Energy,Power,10.86
+SCH013,Equity Fund 013,Infosys,Information Technology,4.05
+SCH013,Equity Fund 013,Bharti Airtel,Telecommunication,31.96
+SCH013,Equity Fund 013,Vodafone Idea,Telecommunication,29.4
+SCH013,Equity Fund 013,BPCL,Oil & Gas,2.6
+SCH013,Equity Fund 013,TCS,Information Technology,6.16
+SCH013,Equity Fund 013,Nestle India,FMCG,3.21
+SCH013,Equity Fund 013,Indian Oil,Oil & Gas,3.0
+SCH013,Equity Fund 013,Tata Communications,Telecommunication,0.34
+SCH013,Equity Fund 013,Divi's Lab,Healthcare,8.42
+SCH014,Equity Fund 014,Infosys,Information Technology,6.84
+SCH014,Equity Fund 014,Bharti Airtel,Telecommunication,0.52
+SCH014,Equity Fund 014,Dr. Reddy's,Healthcare,3.2
+SCH014,Equity Fund 014,Power Grid,Power,23.41
+SCH014,Equity Fund 014,ITC,FMCG,2.68
+SCH014,Equity Fund 014,Divi's Lab,Healthcare,1.53
+SCH014,Equity Fund 014,Hindalco,Metals,6.59
+SCH014,Equity Fund 014,HDFC Bank,Financial Services,41.58
+SCH014,Equity Fund 014,UltraTech Cement,Construction,2.72
+SCH014,Equity Fund 014,Cipla,Healthcare,10.93
+SCH015,Equity Fund 015,Vedanta,Metals,16.36
+SCH015,Equity Fund 015,Ambuja Cements,Construction,3.09
+SCH015,Equity Fund 015,HDFC Bank,Financial Services,14.85
+SCH015,Equity Fund 015,TCS,Information Technology,5.23
+SCH015,Equity Fund 015,Bharti Airtel,Telecommunication,11.41
+SCH015,Equity Fund 015,Tata Consumer,FMCG,11.44
+SCH015,Equity Fund 015,DLF,Construction,8.75
+SCH015,Equity Fund 015,SBI,Financial Services,1.08
+SCH015,Equity Fund 015,Hindustan Unilever,FMCG,20.56
+SCH015,Equity Fund 015,ITC,FMCG,4.41
+SCH015,Equity Fund 015,Tata Motors,Automobile,2.35
+SCH015,Equity Fund 015,ONGC,Oil & Gas,0.47
+SCH016,Equity Fund 016,Indian Oil,Oil & Gas,10.31
+SCH016,Equity Fund 016,ICICI Bank,Financial Services,13.06
+SCH016,Equity Fund 016,Britannia,FMCG,0.19
+SCH016,Equity Fund 016,Maruti Suzuki,Automobile,8.28
+SCH016,Equity Fund 016,Reliance Industries,Oil & Gas,2.96
+SCH016,Equity Fund 016,L&T,Construction,11.95
+SCH016,Equity Fund 016,JSW Steel,Metals,2.21
+SCH016,Equity Fund 016,Bajaj Auto,Automobile,13.55
+SCH016,Equity Fund 016,Nestle India,FMCG,5.64
+SCH016,Equity Fund 016,Mahindra & Mahindra,Automobile,31.85
+SCH017,Equity Fund 017,Nestle India,FMCG,1.43
+SCH017,Equity Fund 017,Wipro,Information Technology,4.02
+SCH017,Equity Fund 017,Tata Consumer,FMCG,1.16
+SCH017,Equity Fund 017,Ambuja Cements,Construction,24.9
+SCH017,Equity Fund 017,Hindustan Unilever,FMCG,20.2
+SCH017,Equity Fund 017,GAIL,Oil & Gas,2.87
+SCH017,Equity Fund 017,Sun Pharma,Healthcare,10.39
+SCH017,Equity Fund 017,Tech Mahindra,Information Technology,16.36
+SCH017,Equity Fund 017,UltraTech Cement,Construction,7.8
+SCH017,Equity Fund 017,Britannia,FMCG,7.26
+SCH017,Equity Fund 017,JSW Energy,Power,2.67
+SCH017,Equity Fund 017,HCL Tech,Information Technology,0.94
+SCH018,Equity Fund 018,Maruti Suzuki,Automobile,15.17
+SCH018,Equity Fund 018,Axis Bank,Financial Services,15.4
+SCH018,Equity Fund 018,Kotak Mahindra Bank,Financial Services,6.69
+SCH018,Equity Fund 018,Tata Communications,Telecommunication,2.76
+SCH018,Equity Fund 018,L&T,Construction,2.87
+SCH018,Equity Fund 018,Tata Consumer,FMCG,8.64
+SCH018,Equity Fund 018,Hindustan Unilever,FMCG,15.18
+SCH018,Equity Fund 018,Divi's Lab,Healthcare,14.56
+SCH018,Equity Fund 018,Apollo Hospitals,Healthcare,10.1
+SCH018,Equity Fund 018,Britannia,FMCG,6.86
+SCH018,Equity Fund 018,ONGC,Oil & Gas,0.59
+SCH018,Equity Fund 018,Grasim,Construction,1.18
+SCH019,Equity Fund 019,GAIL,Oil & Gas,29.0
+SCH019,Equity Fund 019,Tata Power,Power,11.82
+SCH019,Equity Fund 019,Ambuja Cements,Construction,0.12
+SCH019,Equity Fund 019,SBI,Financial Services,1.36
+SCH019,Equity Fund 019,Cipla,Healthcare,13.81
+SCH019,Equity Fund 019,Coal India,Metals,0.06
+SCH019,Equity Fund 019,JSW Steel,Metals,2.22
+SCH019,Equity Fund 019,Vodafone Idea,Telecommunication,10.09
+SCH019,Equity Fund 019,Reliance Industries,Oil & Gas,14.92
+SCH019,Equity Fund 019,Divi's Lab,Healthcare,13.38
+SCH019,Equity Fund 019,TCS,Information Technology,3.22
+SCH020,Equity Fund 020,Reliance Industries,Oil & Gas,13.86
+SCH020,Equity Fund 020,ICICI Bank,Financial Services,3.01
+SCH020,Equity Fund 020,Vedanta,Metals,4.37
+SCH020,Equity Fund 020,HCL Tech,Information Technology,15.25
+SCH020,Equity Fund 020,Ambuja Cements,Construction,11.65
+SCH020,Equity Fund 020,Bajaj Auto,Automobile,21.02
+SCH020,Equity Fund 020,Coal India,Metals,11.91
+SCH020,Equity Fund 020,Mahindra & Mahindra,Automobile,9.33
+SCH020,Equity Fund 020,HDFC Bank,Financial Services,1.09
+SCH020,Equity Fund 020,DLF,Construction,5.09
+SCH020,Equity Fund 020,GAIL,Oil & Gas,3.42
+SCH021,Equity Fund 021,Kotak Mahindra Bank,Financial Services,2.17
+SCH021,Equity Fund 021,Tata Motors,Automobile,27.93
+SCH021,Equity Fund 021,JSW Steel,Metals,3.86
+SCH021,Equity Fund 021,Vedanta,Metals,17.21
+SCH021,Equity Fund 021,Tata Communications,Telecommunication,7.71
+SCH021,Equity Fund 021,Britannia,FMCG,12.24
+SCH021,Equity Fund 021,JSW Energy,Power,5.4
+SCH021,Equity Fund 021,Ambuja Cements,Construction,6.65
+SCH021,Equity Fund 021,Coal India,Metals,5.24
+SCH021,Equity Fund 021,Cipla,Healthcare,1.68
+SCH021,Equity Fund 021,Divi's Lab,Healthcare,9.91
+SCH022,Equity Fund 022,Tata Steel,Metals,2.44
+SCH022,Equity Fund 022,Cipla,Healthcare,0.18
+SCH022,Equity Fund 022,Dr. Reddy's,Healthcare,7.61
+SCH022,Equity Fund 022,Tata Consumer,FMCG,1.43
+SCH022,Equity Fund 022,TCS,Information Technology,20.71
+SCH022,Equity Fund 022,ONGC,Oil & Gas,22.59
+SCH022,Equity Fund 022,DLF,Construction,18.09
+SCH022,Equity Fund 022,Tata Motors,Automobile,3.39
+SCH022,Equity Fund 022,Grasim,Construction,0.11
+SCH022,Equity Fund 022,Coal India,Metals,19.35
+SCH022,Equity Fund 022,ICICI Bank,Financial Services,4.1
+SCH023,Equity Fund 023,Ambuja Cements,Construction,20.38
+SCH023,Equity Fund 023,Kotak Mahindra Bank,Financial Services,19.85
+SCH023,Equity Fund 023,Grasim,Construction,11.49
+SCH023,Equity Fund 023,SBI,Financial Services,2.09
+SCH023,Equity Fund 023,Apollo Hospitals,Healthcare,2.91
+SCH023,Equity Fund 023,Tata Communications,Telecommunication,11.41
+SCH023,Equity Fund 023,Bajaj Auto,Automobile,2.28
+SCH023,Equity Fund 023,Maruti Suzuki,Automobile,1.11
+SCH023,Equity Fund 023,Axis Bank,Financial Services,4.87
+SCH023,Equity Fund 023,Britannia,FMCG,16.48
+SCH023,Equity Fund 023,Indian Oil,Oil & Gas,7.13
+SCH024,Equity Fund 024,JSW Energy,Power,7.01
+SCH024,Equity Fund 024,Axis Bank,Financial Services,0.85
+SCH024,Equity Fund 024,HDFC Bank,Financial Services,7.93
+SCH024,Equity Fund 024,DLF,Construction,38.31
+SCH024,Equity Fund 024,JSW Steel,Metals,1.25
+SCH024,Equity Fund 024,SBI,Financial Services,6.07
+SCH024,Equity Fund 024,UltraTech Cement,Construction,17.44
+SCH024,Equity Fund 024,Bajaj Auto,Automobile,11.22
+SCH024,Equity Fund 024,Nestle India,FMCG,9.92
+SCH025,Equity Fund 025,Sun Pharma,Healthcare,9.46
+SCH025,Equity Fund 025,Tata Steel,Metals,3.48
+SCH025,Equity Fund 025,Bharti Airtel,Telecommunication,2.72
+SCH025,Equity Fund 025,ITC,FMCG,12.95
+SCH025,Equity Fund 025,Infosys,Information Technology,12.98
+SCH025,Equity Fund 025,ICICI Bank,Financial Services,15.77
+SCH025,Equity Fund 025,Tata Motors,Automobile,19.1
+SCH025,Equity Fund 025,Power Grid,Power,5.59
+SCH025,Equity Fund 025,Mahindra & Mahindra,Automobile,5.44
+SCH025,Equity Fund 025,Hindalco,Metals,12.51
+SCH026,Equity Fund 026,NTPC,Power,11.23
+SCH026,Equity Fund 026,BPCL,Oil & Gas,12.95
+SCH026,Equity Fund 026,Tech Mahindra,Information Technology,17.0
+SCH026,Equity Fund 026,SBI,Financial Services,23.61
+SCH026,Equity Fund 026,Adani Green,Power,4.41
+SCH026,Equity Fund 026,DLF,Construction,5.04
+SCH026,Equity Fund 026,Tata Motors,Automobile,1.06
+SCH026,Equity Fund 026,Divi's Lab,Healthcare,9.24
+SCH026,Equity Fund 026,Vodafone Idea,Telecommunication,0.39
+SCH026,Equity Fund 026,Hindustan Unilever,FMCG,6.7
+SCH026,Equity Fund 026,Tata Communications,Telecommunication,8.37
+SCH027,Equity Fund 027,Axis Bank,Financial Services,4.74
+SCH027,Equity Fund 027,Tata Steel,Metals,12.54
+SCH027,Equity Fund 027,UltraTech Cement,Construction,0.43
+SCH027,Equity Fund 027,JSW Steel,Metals,0.53
+SCH027,Equity Fund 027,DLF,Construction,24.26
+SCH027,Equity Fund 027,Tata Communications,Telecommunication,6.27
+SCH027,Equity Fund 027,Divi's Lab,Healthcare,1.91
+SCH027,Equity Fund 027,Vodafone Idea,Telecommunication,10.36
+SCH027,Equity Fund 027,Coal India,Metals,20.62
+SCH027,Equity Fund 027,Tata Power,Power,3.41
+SCH027,Equity Fund 027,ITC,FMCG,13.68
+SCH027,Equity Fund 027,Wipro,Information Technology,1.25
+SCH028,Equity Fund 028,Bajaj Auto,Automobile,0.48
+SCH028,Equity Fund 028,JSW Energy,Power,6.76
+SCH028,Equity Fund 028,UltraTech Cement,Construction,6.93
+SCH028,Equity Fund 028,Axis Bank,Financial Services,9.04
+SCH028,Equity Fund 028,ITC,FMCG,11.54
+SCH028,Equity Fund 028,JSW Steel,Metals,33.19
+SCH028,Equity Fund 028,Nestle India,FMCG,6.47
+SCH028,Equity Fund 028,Tata Power,Power,3.48
+SCH028,Equity Fund 028,Bharti Airtel,Telecommunication,14.14
+SCH028,Equity Fund 028,TCS,Information Technology,2.82
+SCH028,Equity Fund 028,Grasim,Construction,5.15
+SCH029,Equity Fund 029,Bajaj Auto,Automobile,0.84
+SCH029,Equity Fund 029,Coal India,Metals,0.27
+SCH029,Equity Fund 029,HDFC Bank,Financial Services,34.18
+SCH029,Equity Fund 029,Cipla,Healthcare,18.8
+SCH029,Equity Fund 029,DLF,Construction,12.38
+SCH029,Equity Fund 029,Divi's Lab,Healthcare,5.47
+SCH029,Equity Fund 029,Britannia,FMCG,1.98
+SCH029,Equity Fund 029,Tata Communications,Telecommunication,1.77
+SCH029,Equity Fund 029,Vodafone Idea,Telecommunication,2.99
+SCH029,Equity Fund 029,Dr. Reddy's,Healthcare,8.28
+SCH029,Equity Fund 029,TCS,Information Technology,13.04
+SCH030,Equity Fund 030,Tech Mahindra,Information Technology,10.48
+SCH030,Equity Fund 030,ONGC,Oil & Gas,3.19
+SCH030,Equity Fund 030,Bajaj Auto,Automobile,30.12
+SCH030,Equity Fund 030,Divi's Lab,Healthcare,13.02
+SCH030,Equity Fund 030,Tata Communications,Telecommunication,7.86
+SCH030,Equity Fund 030,Sun Pharma,Healthcare,9.2
+SCH030,Equity Fund 030,Maruti Suzuki,Automobile,5.29
+SCH030,Equity Fund 030,BPCL,Oil & Gas,2.77
+SCH030,Equity Fund 030,Kotak Mahindra Bank,Financial Services,4.28
+SCH030,Equity Fund 030,HDFC Bank,Financial Services,13.79
+SCH031,Equity Fund 031,Cipla,Healthcare,0.22
+SCH031,Equity Fund 031,Tata Steel,Metals,1.99
+SCH031,Equity Fund 031,Kotak Mahindra Bank,Financial Services,0.76
+SCH031,Equity Fund 031,Apollo Hospitals,Healthcare,0.67
+SCH031,Equity Fund 031,Coal India,Metals,31.2
+SCH031,Equity Fund 031,ITC,FMCG,19.62
+SCH031,Equity Fund 031,SBI,Financial Services,10.37
+SCH031,Equity Fund 031,HCL Tech,Information Technology,1.66
+SCH031,Equity Fund 031,NTPC,Power,10.91
+SCH031,Equity Fund 031,ONGC,Oil & Gas,10.35
+SCH031,Equity Fund 031,Tata Power,Power,3.07
+SCH031,Equity Fund 031,TCS,Information Technology,9.18
+SCH032,Equity Fund 032,Vodafone Idea,Telecommunication,7.68
+SCH032,Equity Fund 032,JSW Energy,Power,14.47
+SCH032,Equity Fund 032,Power Grid,Power,15.24
+SCH032,Equity Fund 032,Coal India,Metals,0.7
+SCH032,Equity Fund 032,Divi's Lab,Healthcare,7.1
+SCH032,Equity Fund 032,UltraTech Cement,Construction,14.87
+SCH032,Equity Fund 032,Kotak Mahindra Bank,Financial Services,10.58
+SCH032,Equity Fund 032,TCS,Information Technology,29.36
