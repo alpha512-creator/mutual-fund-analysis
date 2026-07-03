@@ -46,6 +46,7 @@ CREATE TABLE fact_nav (
 -- 4. Fact: fact_transactions
 CREATE TABLE fact_transactions (
     transaction_id TEXT PRIMARY KEY,
+    investor_id TEXT NOT NULL,
     date_key INTEGER NOT NULL,
     fund_key INTEGER NOT NULL,
     transaction_type TEXT NOT NULL, -- SIP, Lumpsum, Redemption
